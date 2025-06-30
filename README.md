@@ -37,4 +37,12 @@ This marks the beginning of deeper CLI-based version control usage in my develop
 
 ---
 
-> ✨ *"The command line doesn't have to be complicated. Lazygit makes Git feel like magic."*
+> ✨ *"The command line doesn't have to be complicated. Lazygit makes Git feel like magic."*\
+
+# -->To use Lazygit
+Go to cmd
+Change the drive if required from C to D 
+go to the project folder by using cd 
+Just type lazygit and it will take you to the interface
+shift + / for the lazygit commands 
+
